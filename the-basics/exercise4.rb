@@ -1,0 +1,6 @@
+arr = [1975,1985,1995,2005,2015]
+puts arr[0]
+puts arr[1]
+puts arr[2]
+puts arr[3]
+puts arr[4]
